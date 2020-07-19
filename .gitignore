@@ -1,0 +1,16 @@
+__pycache__/
+datasets/
+.env
+.flaskenv
+utilities/imageurls.csv
+/CSV/
+/most_popular_products.csv
+/orders.csv
+/products.csv
+/profiles.csv
+/profiles_previously_viewed.csv
+/sessions.csv
+/doelgroepen.csv
+/categories.csv
+/brands.csv
+/recommendations/persoonlijk_aangeboden/persoonlijk_aangeboden
